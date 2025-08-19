@@ -12,7 +12,7 @@ Focused on consistency, growth, and contributing to the developer community.
 - 🌱 Currently learning **Java (21), DSA, Web Development, and Open Source**  
 - 💡 Interested in contributing to **high-demand software projects**  
 - 💬 Ask me about **Java, Git, GitHub, and Open Source Contributions**  
-- ⚡ Motto: *Consistency beats motivation — small steps every day matter*  
+- ⚡ Motto:*Consistency beats motivation — small steps every day matter*  
 
 ---
 

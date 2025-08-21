@@ -1,6 +1,6 @@
 ## Hi there,  I'm Vicky 👋 Student Developer | Building skills in Java, DSA, and Web Development
 
-🚀 **Aspiring Software Developer | Java Enthusiast | Open-Source Contributor**
+ **Aspiring Software Developer | Java Enthusiast | Open-Source Contributor**
 
 Passionate about learning **Java, DSA, and Web Development** while exploring real-world open-source projects.  
 Focused on consistency, growth, and contributing to the developer community.  

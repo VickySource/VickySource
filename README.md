@@ -17,15 +17,16 @@ Focused on consistency, growth, and contributing to the developer community.
 ---
 
 ###  Tech Stack
-- **Languages:** Java, python, SQL  
+- **Languages:** Java, python  
 - **Tools:** Git, GitHub, VS Code  
-- **Databases:**  MySQL  
+- **Databases:**   MySQL  
 - **Areas of Interest:** Software Development, Web Development, Open Source  
 
 ---
 
 ### 📊 GitHub Stats
 ![Vicky's GitHub stats](https://github-readme-stats.vercel.app/api?username=VickySource&show_icons=true&theme=radical)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VickySource&layout=compact&theme=radical)
 

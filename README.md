@@ -1,41 +1,67 @@
-## Hi there,  I'm Vicky 👋 Student Developer | Building skills in Java, DSA, and Web Development
 
- **Aspiring Software Developer | Java Enthusiast | Open-Source Contributor**
+---
+👨‍💻 Vikas A R – Aspiring Software Development Engineer
 
-Passionate about learning **Java, DSA, and Web Development** while exploring real-world open-source projects.  
-Focused on consistency, growth, and contributing to the developer community.  
+📌 Summary
+Aspiring Software Development Engineer actively preparing for product-based roles. Internship experience in Android development at EduSkills Foundation (Google for Developers & NSDC). Skilled in Java, React.js, Firebase, and MERN stack deployment. Strong foundation in Data Structures & Algorithms, OOP, DBMS, and Operating Systems. Currently enhancing coding skills through Algorithms365 challenge and pursuing DSA mastery via Striver's A2Z roadmap. Applying for the Google Associate Software Developer Intern 2026 role.
 
 ---
 
-###  About Me
--  Computer Science Student (PES College of Engineering, Mandya)  
--  Currently learning **Java (21), DSA, Web Development, and Open Source**  
--  Interested in contributing to **high-demand software projects**  
--  Ask me about **Java, Git, GitHub, and Open Source Contributions**  
--  Motto:*Consistency beats motivation — small steps every day matter*  
+🛠️ Skills
+- Languages: Java, Python, JavaScript  
+- Web Technologies: React.js, Node.js, Express.js, HTML, CSS  
+- Mobile Development: Android Studio, Firebase  
+- Cloud & DevOps: Google Cloud, Git, GitHub  
+- Core Concepts: Data Structures & Algorithms, OOP, DBMS, Operating Systems  
+- Learning Initiatives: Algorithms365 (daily coding practice), Striver's A2Z DSA roadmap  
 
 ---
 
-###  Tech Stack
-- **Languages:** Java, python  
-- **Tools:** Git, GitHub, VS Code  
-- **Databases:**   MySQL  
-- **Areas of Interest:** Software Development, Web Development, Open Source  
+📜 Certificates
+- Android Developer Internship – EduSkills Foundation (Google for Developers & NSDC, 2025)  
+- Google Cloud Fundamentals Certificate – 2025  
+- Hackathon Participation – 2025: Contributed to team-based MERN stack project with deployment and LinkedIn integration  
+- Competitive Programming Contributions – 2025: Active on LeetCode, HackerRank, and GitHub open-source  
 
 ---
 
-### 📊 GitHub Stats
-![Vicky's GitHub stats](https://github-readme-stats.vercel.app/api?username=VickySource&show_icons=true&theme=radical)
+🚀 Projects
 
+Precripto (Team Project) | MERN Stack, Vercel, Render (2025)
+- Developed a collaborative platform with LinkedIn integration for team recognition  
+- Deployed full-stack application with clear README and deployment instructions  
+- Coordinated team contributions and ensured professional project documentation  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VickySource&layout=compact&theme=radical)
+E-Learning Platform | React.js, Node.js, MongoDB (2025)
+- Designed and developed an interactive E-Learning platform hosted on GitHub (VickySource)  
+- Implemented user authentication, course modules, and progress tracking features  
+- Focused on scalability and clean documentation for deployment and collaboration  
+
+Portfolio Website (2024)
+- Built a personal portfolio using React.js and deployed on Vercel  
+- Integrated GitHub projects and LinkedIn profile for professional branding  
 
 ---
 
-### 🌍 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/vicky-s1/)  
-- 🖥️ [GitHub](https://github.com/VickySource)  
+🏆 Achievements
+- Completed Android Developer Internship with EduSkills Foundation (Google for Developers & NSDC)  
+- Selected as Smart India Hackathon 2025 participant at the college level  
+- Won 3rd Prize in Relathon Threshold, organized by IEEE  
+- Hackathon participation and team project leadership  
+- Competitive programming and open-source contributions  
+- Consistently practicing coding problems via Algorithms365 and progressing through Striver's A2Z DSA roadmap  
 
 ---
 
-✨ *“Code. Contribute. Grow.”* ✨
+🎓 Education
+- Bachelor of Engineering in Computer Science – P.E.S. College of Engineering, Mandya (Expected Graduation: 2027)  
+- Diploma in Computer Science Engineering – Graduated: 2024  
+
+---
+
+🌐 Connect with Me
+- 📧 Email: vvickyar25@gmail.com  
+- 🔗 LinkedIn: linkedin.com/in/vikas-ar  
+- 💻 GitHub: github.com/VickySource (github.com in Bing)  
+
+---

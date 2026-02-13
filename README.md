@@ -55,13 +55,11 @@ Portfolio Website (2024)
 
 🎓 Education
 - Bachelor of Engineering in Computer Science – P.E.S. College of Engineering, Mandya (Expected Graduation: 2027)  
-- Diploma in Computer Science Engineering – Graduated: 2024  
+- Diploma in Computer Science Engineering – Graduated: 2024
 
----
 
-🌐 Connect with Me
-- 📧 Email: vvickyar25@gmail.com  
-- 🔗 LinkedIn: linkedin.com/in/vikas-ar  
-- 💻 GitHub: github.com/VickySource
+- ## 🌐 Connect with Me
 
----
+- 📧 Email: [vickyar25@gmail.com](mailto:vickyar25@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/vikas-ar](https://linkedin.com/in/vikas-ar)
+- 💻 GitHub: [github.com/VickySource](https://github.com/VickySource)

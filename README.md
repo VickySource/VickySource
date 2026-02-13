@@ -62,6 +62,6 @@ Portfolio Website (2024)
 🌐 Connect with Me
 - 📧 Email: vvickyar25@gmail.com  
 - 🔗 LinkedIn: linkedin.com/in/vikas-ar  
-- 💻 GitHub: github.com/VickySource   
+- 💻 GitHub: github.com/VickySource
 
 ---

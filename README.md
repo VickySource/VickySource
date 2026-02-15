@@ -1,13 +1,13 @@
 
 ---
-👨‍💻 Vikas A R – As⁶piring Software Development Engineer
+ Vikas A R – As⁶piring Software Development Engineer
 
-📌 Summary
+Summary
 Aspiring Software Development Engineer actively preparing for product-based roles. Internship experience in Android development at EduSkills Foundation (Google for Developers & NSDC). Skilled in Java, React.js, Firebase, and MERN stack deployment. Strong foundation in Data Structures & Algorithms, OOP, DBMS, and Operating Systems. Currently enhancing coding skills through Algorithms365 challenge and pursuing DSA mastery via Striver's A2Z roadmap. Applying for the Google Associate Software Developer Intern 2026 role.
 
 ---
 
-🛠️ Skills
+ Skills
 - Languages: Java, Python, JavaScript  
 - Web Technologies: React.js, Node.js, Express.js, HTML, CSS  
 - Mobile Development: Android Studio, Firebase  
@@ -17,7 +17,7 @@ Aspiring Software Development Engineer actively preparing for product-based role
 
 ---
 
-📜 Certificates
+ Certificates
 - Android Developer Internship – EduSkills Foundation (Google for Developers & NSDC, 2025)  
 - Google Cloud Fundamentals Certificate – 2025  
 - Hackathon Participation – 2025: Contributed to team-based MERN stack project with deployment and LinkedIn integration  
@@ -25,7 +25,7 @@ Aspiring Software Development Engineer actively preparing for product-based role
 
 ---
 
-🚀 Projects
+ Projects
 
 Precripto (Team Project) | MERN Stack, Vercel, Render (2025)
 - Developed a collaborative platform with LinkedIn integration for team recognition  
@@ -43,7 +43,7 @@ Portfolio Website (2024)
 
 ---
 
-🏆 Achievements
+ Achievements
 - Completed Android Developer Internship with EduSkills Foundation (Google for Developers & NSDC)  
 - Selected as Smart India Hackathon 2025 participant at the college level  
 - Won 3rd Prize in Relathon Threshold, organized by IEEE  
@@ -53,13 +53,13 @@ Portfolio Website (2024)
 
 ---
 
-🎓 Education
+ Education
 - Bachelor of Engineering in Computer Science – P.E.S. College of Engineering, Mandya (Expected Graduation: 2027)  
 - Diploma in Computer Science Engineering – Graduated: 2024
 
 
 - ## 🌐 Connect with Me
 
-- 📧 Email: [vickyar25@gmail.com](mailto:vickyar25@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/vikas-ar](https://linkedin.com/in/vikas-ar)
-- 💻 GitHub: [github.com/VickySource](https://github.com/VickySource)
+-  Email: [vickyar25@gmail.com](mailto:vickyar25@gmail.com)
+-  LinkedIn: [linkedin.com/in/vikas-ar](https://linkedin.com/in/vikas-ar)
+-  GitHub: [github.com/VickySource](https://github.com/VickySource)

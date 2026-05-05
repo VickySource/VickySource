@@ -1,6 +1,6 @@
 
 ---
- Vikas A R – As⁶piring Software Development Engineer
+ Vikas A R – Aspiring Software Development Engineer
 
 Summary
 Aspiring Software Development Engineer actively preparing for product-based roles. Internship experience in Android development at EduSkills Foundation (Google for Developers & NSDC). Skilled in Java, React.js, Firebase, and MERN stack deployment. Strong foundation in Data Structures & Algorithms, OOP, DBMS, and Operating Systems. Currently enhancing coding skills through Algorithms365 challenge and pursuing DSA mastery via Striver's A2Z roadmap. Applying for the Google Associate Software Developer Intern 2026 role.

@@ -177,14 +177,13 @@ https://github.com/VickySource
 
 ---
 
-# GitHub Stats
+# GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=VickySource&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=VickySource&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=VickySource&theme=tokyonight&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=VickySource&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VickySource&theme=tokyonight&hide_border=false&layout=compact)
-
+![](https://github-readme-activity-graph.vercel.app/graph?username=VickySource&theme=tokyo-night&hide_border=true)
 ---
 
 # Connect With Me

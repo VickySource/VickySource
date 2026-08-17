@@ -46,7 +46,7 @@ Git, GitHub, Postman, Cloudinary, Razorpay, Firebase, Vercel, Render
 
 ### Back End Developer Intern — WebSmart Technologies India, Bengaluru
 
-**Jul 2026 – Present | On-site**
+**May 2026 – Jul 2026 | On-site**
 
 * Developing backend services and REST APIs for full-stack web applications using Python, Django, and MySQL.
 * Building database-driven applications to replace legacy paper-based workflows with automated digital systems.

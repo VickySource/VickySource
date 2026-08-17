@@ -1,210 +1,218 @@
-# Hi, I'm Vikas A R
+# VIKAS A R
 
-### Aspiring Software Development Engineer from India
+Software Engineer | Java • Python • Full-Stack Development
 
-Passionate about building scalable full-stack applications, backend systems, and AI-powered solutions.  
-Currently focused on Software Engineering, System Design, Data Structures & Algorithms, and AI Applications.
-
----
-
-# About Me
-
-- BE Computer Science Engineering Student at PES College of Engineering
-- Focused on SDE roles and product-based companies
-- Currently learning:
-  - System Design
-  - Agentic AI Systems
-  - Backend Scalability
-  - RAG Pipelines
-- Practicing DSA through:
-  - Striver's A2Z Roadmap
-  - Algorithms365
-- Interested in:
-  - Backend Engineering
-  - AI-Powered Applications
-  - Full-Stack Development
-  - Scalable Architectures
+[LinkedIn](https://linkedin.com/in/vikas-ar) | [GitHub](https://github.com/VickySource) | [LeetCode](https://leetcode.com/u/Vicky_S2027/) | [Email](mailto:vvickyar25@gmail.com)
 
 ---
 
-# Tech Stack
+## ABOUT ME
 
-## Languages
+Computer Science Engineering student with a strong foundation in Java, Python, Data Structures & Algorithms, and full-stack web development. Experienced in developing backend services, REST APIs, database-driven applications, and role-based authentication systems.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+Currently focused on Software Engineering, Backend Development, Data Structures & Algorithms, System Design, and AI-powered applications.
 
 ---
 
-## Frontend
+## EDUCATION
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**B.E. – Computer Science and Engineering (Lateral Entry)**
+**PES College of Engineering, Mandya, India**
+2024 – 2027
 
----
-
-## Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+**Diploma in Computer Science Engineering**
+**Government Polytechnic, Arakere, Mandya, India**
+2021 – 2024
 
 ---
 
-## Database
+## TECHNICAL SKILLS
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Programming Languages:**
+Java, Python, JavaScript, TypeScript, C, C++
 
----
+**Core Concepts:**
+Data Structures & Algorithms, Object-Oriented Programming, SQL, DBMS, Operating Systems
 
-## Tools & Platforms
+**Web & Backend:**
+React.js, Node.js, Express.js, Django, MongoDB, MySQL, REST APIs, JWT Authentication, MVC Architecture, RBAC
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+**Developer Tools & Services:**
+Git, GitHub, Postman, Cloudinary, Razorpay, Firebase, Vercel, Render
 
 ---
 
-# Core Computer Science
+## EXPERIENCE
 
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- DBMS
-- Operating Systems
-- REST API Design
-- MVC Architecture
-- Authentication & Authorization
-- Debugging & Troubleshooting
+### Back End Developer Intern — WebSmart Technologies India, Bengaluru
 
----
+**Jul 2026 – Present | On-site**
 
-# Experience
+* Developing backend services and REST APIs for full-stack web applications using Python, Django, and MySQL.
+* Building database-driven applications to replace legacy paper-based workflows with automated digital systems.
+* Developing CRUD-based application modules with server-side validation and database integration.
+* Working on backend architecture, API development, and frontend-backend communication.
+* Contributing to production-oriented application development in a professional engineering environment.
 
-## Software Development Engineer Intern — ExcelR (Remote)
+### Android Developer Intern — Google for Developers, India Edu Program / EduSkills
 
-- Designed secure JWT-based Authentication and RBAC systems
-- Built responsive React components improving UI performance
-- Architected backend using MVC Architecture
-- Integrated Razorpay Payment Gateway and Cloudinary Storage
-- Worked with scalable backend routing and middleware validation
+**Nov 2025 – Dec 2025 | Remote**
 
----
+* Developed Android application components using Java/Kotlin and Android development tools.
+* Worked with application development workflows, UI components, and Android programming concepts.
+* Gained practical experience in mobile application development through a structured virtual internship program.
 
-# Featured Projects
+### MERN Stack Developer Intern — ExcelR EdTech Pvt. Ltd.
 
-## E-Learning Platform
+**Oct 2025 – Dec 2025 | On-site**
 
-MERN Stack Course Management System
-
-- Built role-based authentication and authorization
-- Developed protected REST APIs and CRUD operations
-- Created responsive frontend using React.js
-- Structured scalable backend services
-
-### Tech Stack
-
-`React.js` `Node.js` `Express.js` `MongoDB` `JWT`
-
-Live Demo:  
-https://vickysource.github.io/E-learning
-
-GitHub Repository:  
-https://github.com/VickySource
+* Developed full-stack web applications using React.js, Node.js, Express.js, and MongoDB.
+* Implemented JWT-based authentication and role-based access control.
+* Developed REST APIs, backend routes, middleware, and CRUD functionality.
+* Integrated Razorpay payment gateway and Cloudinary for application services.
+* Worked with MVC architecture and frontend-backend API integration.
 
 ---
 
-## HealthMate — Healthcare Platform
+## PROJECTS
 
-- Developed Patient, Doctor, and Admin workflows
-- Integrated Razorpay Payment Gateway
-- Added Cloudinary image upload support
-- Implemented secure authentication system
+### E-Learning Platform
 
-### Tech Stack
+**07/2025 – 09/2025**
 
-`React` `Node.js` `MongoDB Atlas` `JWT` `Razorpay`
+A responsive e-learning platform designed to provide an online learning experience with structured course browsing and role-specific interfaces.
 
----
+* Developed a responsive web application using HTML5, CSS3, Bootstrap 5, and JavaScript.
+* Implemented client-side registration and login using JavaScript and localStorage.
+* Designed dedicated interfaces for students, instructors, and developers.
+* Implemented structured course browsing and instructor application workflows.
 
-## AI Competency Navigator (Ongoing)
+**Tech Stack:**
+HTML5 • CSS3 • Bootstrap 5 • JavaScript
 
-- Building AI-powered career guidance and competency analysis system
-- Working on architecture design, AI pipelines, and verification workflows
-- Focused on scalable AI-driven communication systems
-
-### Focus Areas
-
-`AI Systems` `RAG Pipelines` `Backend Architecture`
+**Live Demo:**
+https://vickysource.github.io/E-learning/
 
 ---
 
-## Cancer Cell Prediction System
+### HealthMate
 
-- Developed ML models using patient datasets
-- Applied feature engineering and dimensionality reduction
-- Improved prediction accuracy through hyperparameter tuning
+**10/2025 – 11/2025**
 
-### Tech Stack
+A multi-role healthcare platform supporting patient, doctor, and administrator workflows.
 
-`Python` `Scikit-learn` `Machine Learning`
+* Developed the application using the MERN stack.
+* Implemented secure JWT authentication and role-based access control.
+* Developed REST APIs for appointment scheduling and prescription management.
+* Integrated Razorpay for payment processing.
+* Integrated Cloudinary for image and document storage.
 
----
+**Tech Stack:**
+React.js • Node.js • Express.js • MongoDB • JWT • Razorpay • Cloudinary
 
-# Achievements
-
-- Smart India Hackathon 2025 — Internal Round Qualifier
-- IEEE Relayathon Hackathon — Second Runner-Up
-- Android Developer Virtual Internship — AICTE
-- Google Cloud Fundamentals Certification
-- Active Competitive Programming Practice
-- Open Source and GitHub Contributions
+**Live Demo:**
+https://doc-appoint-pearl.vercel.app
 
 ---
 
-# Competitive Programming
+### Cancer Cell Prediction
 
-- LeetCode
-- HackerRank
-- Striver's A2Z DSA Roadmap
-- Algorithms365 Daily Practice
+**12/2025 – 02/2026**
 
----
+Machine learning project focused on predicting cancer-related outcomes using patient datasets.
 
-# GitHub Analytics
+* Developed and evaluated Random Forest, SVM, KNN, and Logistic Regression models.
+* Worked with a dataset containing 1000+ patient records.
+* Applied feature engineering and hyperparameter tuning.
+* Used Principal Component Analysis (PCA) for dimensionality reduction.
+* Compared model performance using standard evaluation metrics.
 
-![](https://github-readme-stats.vercel.app/api?username=VickySource&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=VickySource&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=VickySource&theme=tokyo-night&hide_border=true)
----
-
-# Connect With Me
-
-Email:  
-vvickyar25@gmail.com
-
-LinkedIn:  
-https://linkedin.com/in/vikas-ar
-
-GitHub:  
-https://github.com/VickySource
+**Tech Stack:**
+Python • Scikit-learn • Machine Learning • PCA
 
 ---
 
-# Current Focus
+## CERTIFICATIONS & ACHIEVEMENTS
+
+* **MERN Stack Internship Program** — ExcelR
+  [Certificate](https://drive.google.com/file/d/16x5qfCOpVqxSD8eMk5s_w5Ea3l6GiznN/view?usp=drive_link)
+
+* **Android Developer Virtual Internship** — AICTE
+  [Certificate](https://drive.google.com/file/d/16N2WRDvPrrwnmOD-YQ4ryFqnLk61DBP-/view?usp=sharing)
+
+* **Smart India Hackathon 2025** — Internal Round Qualifier, Team Leader
+
+* **IEEE Relayathon Hackathon** — Second Runner-Up
+  [Certificate](https://drive.google.com/file/d/1fAVtftIU1NYzyLVD5U1iZK7dyYByCRfT/view?usp=sharing)
+
+* **Google Cloud Skills Boost** — Cloud Digital Leader, Associate Cloud Engineer Path, Data & AI Fundamentals
+  [Profile](https://g.dev/Vicky1)
+
+---
+
+## DATA STRUCTURES & ALGORITHMS
+
+Currently practicing problem solving and algorithmic thinking through:
+
+* [LeetCode](https://leetcode.com/u/Vicky_S2027/)
+* Striver's A2Z DSA Roadmap
+* Algorithms365
+
+---
+
+## CURRENT LEARNING
+
+* Data Structures & Algorithms
+* System Design
+* Backend Scalability
+* REST API Design
+* AI Applications
+* Retrieval-Augmented Generation (RAG)
+* Software Engineering Best Practices
+
+---
+
+## GITHUB STATISTICS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VickySource&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VickySource&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VickySource&theme=tokyo-night&hide_border=true" width="100%"/>
+</p>
+
+---
+
+## LANGUAGES
+
+**Japanese:** Beginner — JLPT N5 in progress
+
+**English:** Professional Working Proficiency
+
+**Kannada:** Native
+
+---
+
+## CONTACT
+
+**Email:** [vvickyar25@gmail.com](mailto:vvickyar25@gmail.com)
+
+**LinkedIn:** https://linkedin.com/in/vikas-ar
+
+**GitHub:** https://github.com/VickySource
+
+**LeetCode:** https://leetcode.com/u/Vicky_S2027/
+
+---
 
 ```java
-while(!success){
+while (!success) {
     practiceDSA();
     buildProjects();
-    improveSystemsDesign();
+    improveBackendSkills();
+    learnSystemDesign();
     stayConsistent();
 }
+```

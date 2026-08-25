@@ -2,7 +2,7 @@
 
 Software Engineer | Java • Python • Full-Stack Development
 
-[LinkedIn](https://linkedin.com/in/vikas-ar) | [GitHub](https://github.com/VickySource) | [LeetCode](https://leetcode.com/u/Vicky_S2027/) | [Email](mailto:vvickyar25@gmail.com)
+[LinkedIn](https://linkedin.com/in/vikas-ar) | [LeetCode](https://leetcode.com/u/Vicky_S2027/) | [Email](mailto:vvickyar25@gmail.com)
 
 ---
 
